@@ -1,0 +1,2 @@
+C:\Users\Lyubomir\Desktop\UnitTest\UnitTest\UnitTestMath\x64\Debug\UnitTestMath.exe
+C:\Users\Lyubomir\Desktop\UnitTest\UnitTest\UnitTestMath\x64\Debug\UnitTestMath.pdb

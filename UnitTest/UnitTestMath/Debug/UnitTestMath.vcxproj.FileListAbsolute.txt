@@ -1,0 +1,2 @@
+D:\buas\Perforce\Lyubomir201337\Block B\UnitTest\UnitTestMath\Debug\UnitTestMath.exe
+D:\buas\Perforce\Lyubomir201337\Block B\UnitTest\UnitTestMath\Debug\UnitTestMath.pdb

@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  Generating code
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(252): warning C4715: 'Plane::Trace': not all control paths return a value
+  173 of 201 functions (86.1%) were compiled, the rest were copied from previous compilation.
+    44 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RayTracer1.vcxproj -> D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\Release\RayTracer1.exe

@@ -1,0 +1,26 @@
+﻿  Camera.cpp
+  Main.cpp
+  Maths.cpp
+  Ray.cpp
+  Shape.cpp
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(194,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(207,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(208,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(209,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(220,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(221,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(381,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(382,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(383,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(400,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(401,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(402,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(419,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(420,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(421,27): warning C4244: '=': conversion from 'float' to 'sf::Uint8', possible loss of data
+  Generating Code...
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(78): warning C4715: 'ShapeSet::returnNormal': not all control paths return a value
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(89): warning C4715: 'ShapeSet::makeReflectedRay': not all control paths return a value
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(100): warning C4715: 'ShapeSet::makeRefractionRay': not all control paths return a value
+D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\RayTracer1\Shape.cpp(252): warning C4715: 'Plane::Trace': not all control paths return a value
+  RayTracer1.vcxproj -> D:\buas\Perforce\Lyubomir201337\Block B\RayTracer-Project\Debug\RayTracer1.exe
